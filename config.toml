@@ -1,0 +1,75 @@
+baseURL = "https://127.0.0.1"
+languageCode = "en-us"
+title = "Andreas Bigger"
+theme = "kross-hugo"
+summaryLength = "10"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/shuffle/shuffle.min.js"
+
+
+  
+# navigation
+[menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 3
+  
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
+  weight = 4
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 5
+
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "Andreas Bigger's Official Personal Website"
+author = "Andreas Bigger"
+# Google Analitycs
+googleAnalitycsID = "UA-135637925-1"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  [params.contact]
+  enable = false
+  enableOnPage = true
+  formAction = "https://formspree.io/abigger87@gmail.com" #contact form works with formspree.io
+
+  [params.footer]
+  email = "abigger87@gmail.com"
+  phone = "Not Available"
+  address = "Los Angeles, California, USA"

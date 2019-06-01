@@ -1,0 +1,169 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Andreas Bigger <br>"
+  socialLinks:
+    - icon : "ti-facebook"
+      URL : "https://www.facebook.com/abigger87"
+      
+    - icon : "ti-instagram"
+      URL : "https://www.instagram.com/andreaslbigger/"
+      
+    - icon : "ti-linkedin"
+      URL : "https://www.linkedin.com/in/andreasbigger/"
+      
+    - icon : "ti-twitter"
+      URL : "https://twitter.com/abigger87"
+
+    - icon : "ti-github"
+      URL : "https://github.com/abigger87"
+
+# about
+about:
+  enable : true
+  content : "I'm an undergraduate Viterbi Fellow at the University of Southern California studying computer science with an entrepreneurial flair."
+
+# blog
+blog:
+  enable : true
+
+# experience
+experience:
+  enable : true
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Head Technician"
+      company : "Janam Technologies"
+      duration : "Summer 2017"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "Director of Hacker Experience"
+      company : "HackSC"
+      duration : "Jan 2019 - Present"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Undergraduate Researcher"
+      company : "Spatial Computing Labs"
+      duration : "Sep 2018 - Present"
+
+# education
+education:
+  enable : true
+  item:
+    - title : "Bachelor's of Science"
+      year : "2022"
+      academy : "University of Southern California"
+      academyLogo : "images/about/education/usc.png"
+      
+    - title : "High School Diploma"
+      year : "2018"
+      academy : "Cold Spring Harbor High School"
+      academyLogo : "images/about/education/csh.jpg"
+
+# portfolio
+portfolio:
+  enable : true
+  item:
+    - image : "images/projects/adms.png"
+      projectURL : "https://adms.usc.edu"
+      title : "ADMS"
+      
+    - image : "images/projects/D2C.png"
+      projectURL : "http://district2capital.com"
+      title : "D2C"
+      
+    - image : "images/projects/hacksc.png"
+      projectURL : "https://hacksc.com"
+      title : "HackSC"
+
+
+# testimonial
+testimonial:
+  enable : true
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# service
+service:
+  enable : false
+  item : 
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# skill
+skill:
+  enable : false
+  skillbar:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# client slider
+clientSlider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"

@@ -1,0 +1,85 @@
+# portfolio filter list
+list:
+  - title : "Work"
+    type : "work"
+    
+  - title : "Organizations"
+    type : "orgs"
+    
+  - title : "Personal"
+    type : "personal"
+
+# portfolio item
+item:
+    - image : "images/projects/adms.png"
+      projectURL : "https://adms.usc.edu"
+      title : "ADMS"
+      projectType:
+        - type: "work"
+
+      
+    - image : "images/projects/D2C.png"
+      projectURL : "http://district2capital.com"
+      title : "D2C"
+      projectType:
+        - type: "work"
+      
+    - image : "images/projects/hacksc.png"
+      projectURL : "https://hacksc.com"
+      title : "HackSC"
+      projectType:
+        - type: "orgs"
+      
+    - image : "images/projects/pkt.png"
+      projectURL : "https://uscphitau.org"
+      title: "PKT"
+      projectType:
+        - type: "orgs"
+
+    - image : "images/projects/ringtune.png"
+      projectURL : "https://abigger87.github.io/RingTune/"
+      title : "RingTune"
+      projectType:
+        - type: "personal"
+
+    - image : "images/projects/personal2.png"
+      projectURL : "https://abigger87.github.io/ab3/"
+      title : "Personal"
+      projectType:
+        - type: "personal"
+    
+    - image : "images/projects/asteroid.png"
+      projectURL : "https://abigger87.github.io/LadonsAsteroid/"
+      title : "Asteroid"
+      projectType:
+        - type: "personal"
+
+    - image : "images/projects/snap-vote.png"
+      projectURL : "https://snap-vote.herokuapp.com/home"
+      title : "Snap-Vote"
+      projectType:
+        - type: "personal"
+
+    - image : "images/projects/birds.png"
+      projectURL : "https://birds.andreasbigger.com"
+      title : "Birds"
+      projectType:
+        - type: "personal"
+
+    - image : "images/projects/particles.png"
+      projectURL : "https://particles.andreasbigger.com"
+      title : "Particles"
+      projectType:
+        - type: "personal"
+
+    - image : "images/projects/pixelpath.png"
+      projectURL : "https://abigger87.github.io/PixelPath/"
+      title : "PixelPath"
+      projectType:
+        - type: "personal"
+
+    - image : "images/projects/remains.png"
+      projectURL : "https://abigger87.github.io/RemainsOfTheDay/"
+      title : "ROTD"
+      projectType:
+        - type: "personal"
