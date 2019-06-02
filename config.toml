@@ -25,8 +25,6 @@ summaryLength = "10"
   [[params.plugins.js]]
   URL = "plugins/shuffle/shuffle.min.js"
 
-
-  
 # navigation
 [menu]
     
