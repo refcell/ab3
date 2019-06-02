@@ -1,4 +1,4 @@
-baseURL = "https://127.0.0.1"
+baseURL = "https://andreasbigger.com"
 languageCode = "en-us"
 title = "Andreas Bigger"
 theme = "kross-hugo"
