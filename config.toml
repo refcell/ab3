@@ -1,4 +1,4 @@
-baseURL = "https://andreasbigger.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Andreas Bigger"
 theme = "kross-hugo"
