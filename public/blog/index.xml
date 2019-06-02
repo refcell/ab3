@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Andreas Bigger</title>
-    <link>https://127.0.0.1/blog/</link>
+    <link>https://andreasbigger.com/blog/</link>
     <description>Recent content in Blog on Andreas Bigger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="https://127.0.0.1/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andreasbigger.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tesla, Strong Buy?</title>
-      <link>https://127.0.0.1/blog/teslablog1/</link>
+      <link>https://andreasbigger.com/blog/teslablog1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://127.0.0.1/blog/teslablog1/</guid>
+      <guid>https://andreasbigger.com/blog/teslablog1/</guid>
       <description>Since the beginning of 2019, Tesla (TSLA) has declined by nearly 50%, dropping from about $347 at its peak to $186.</description>
     </item>
     
