@@ -80,20 +80,25 @@ portfolio:
 testimonial:
   enable : true
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Harry Lerner"
+      image : "images/testimonial/harrylerner.jpg"
+      designation : "Janam Technologies CEO, Founder"
+      content : '"Andreas executed his responsibilities with little supervision and worked diligently to perform repair services quickly and at the highest standards. His work ethic, quick learning capabilities, computer literacy, and professionalism impressed everyone on our team. Based on his performance and his enthusiasm, I would certainly rank him as one of the best repair technicians we have ever employed."'
+
+    - name : "Roger Podell"
+      image : "images/testimonial/rogerpodell.jpg"
+      designation : "Executive Director of the CSH Library"
+      content : '"Andreas approached our staff with the idea for this program, which was extremely well planned and organized. He had PowerPoint presentations and written instructions ready for the students, and supplied and coordinated the appropriate number of volunteers. Our staff was very impressed by his maturity and thoughtfulness."'
       
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Arthur R. Toth"
+      image : "images/testimonial/arthurtothshort.jpg"
+      designation : "Harvard Professor"
+      content : '"I enjoyed having Andreas Bigger in my class. He always approached the problems in an upbeat manner and accomplished the tasks. He demonstrated flexibility, working around the issues in order to accomplish his goals. In general, I felt that Andreas had a good attitude that allowed him to continue going and reach his goals regardless of temporary setbacks. I think this is an important quality to have when approaching open-ended topics."'
       
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - name : "Xuemei Ye-Matheus"
+      image : "images/testimonial/xuemei.jpg"
+      designation : "Foreign Language Teacher"
+      content : '"Over the ten years I have been teaching Andreas, I have earned full confidence that he is able to effectively communicate and converse in Mandarin Chinese. He has worked very hard and always sought ways to improve. Andreas is a very focused and intelligent young man."'
 
 # service
 service:
