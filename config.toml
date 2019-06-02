@@ -65,7 +65,7 @@ googleAnalitycsID = "UA-135637925-1"
   [params.contact]
   enable = false
   enableOnPage = true
-  formAction = "https://formspree.io/abigger87@gmail.com" #contact form works with formspree.io
+  formAction = "mailto:abigger87@gmail.com" #contact form works with formspree.io
 
   [params.footer]
   email = "abigger87@gmail.com"

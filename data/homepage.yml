@@ -30,17 +30,17 @@ blog:
 experience:
   enable : true
   item: 
-    - logo : "images/experience/icon-1.png"
+    - logo : "images/experience/janam.png"
       title : "Head Technician"
       company : "Janam Technologies"
       duration : "Summer 2017"
       
-    - logo : "images/experience/icon-2.png"
+    - logo : "images/experience/hacksc.png"
       title : "Director of Hacker Experience"
       company : "HackSC"
       duration : "Jan 2019 - Present"
       
-    - logo : "images/experience/icon-1.png"
+    - logo : "images/experience/adms.jpg"
       title : "Undergraduate Researcher"
       company : "Spatial Computing Labs"
       duration : "Sep 2018 - Present"
