@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify -t kross-hugo"
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.55.6"
