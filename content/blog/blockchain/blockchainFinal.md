@@ -20,7 +20,7 @@ encyclopedia. As access to the internet grew and became more easily
 accessible, this innovation spread. As of June, 2019, the number of
 active English contributors (within the last 30 days) is 127,026.
 
-<img src="/images/blog/blockchain/wikipedia.jpg" alt="blockchain" style="width:80%; display: block; margin-left: auto; margin-right: auto;"/>
+<!--<img src="/images/blog/blockchain/wikipedia.jpg" alt="blockchain" style="width:80%; display: block; margin-left: auto; margin-right: auto;"/>-->
 
 In 2009, the financial crisis occurred in the United States and many
 lost faith in the banks. This allowed the launch of a new project called
