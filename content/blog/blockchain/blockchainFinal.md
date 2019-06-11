@@ -1,11 +1,14 @@
-Andr![](media/image1.png){width="6.360001093613298in"
-height="4.261291557305337in"}eas Bigger
+---
+title: "Blockchain in 10 Minutes"
+date: 2019-06-2T12:14:34+06:00
+PublishDate: 2019-06-11T1:38:34+06:00
+image: "media/blockchain.png"
+description: "Blog 2 - An exploration into Blockchain technology"
+author: "Andreas Bigger"
+type: "post"
+---
 
-Tuesday
-
-6/11/2019
-
-A Brief History of Decentralization
+#### A Brief History of Decentralization
 
 The blockchain can be described as a step along the journey to complete
 decentralization. Some time ago, people - and possibly you yourself -
@@ -17,14 +20,14 @@ encyclopedia. As access to the internet grew and became more easily
 accessible, this innovation spread. As of June, 2019, the number of
 active English contributors (within the last 30 days) is 127,026.
 
-![](media/image2.jpeg){width="4.343867016622922in"
+![Blockchain](media/wikipedia.jpg){width="4.343867016622922in"
 height="2.00544072615923in"}
 
 In 2009, the financial crisis occurred in the United States and many
 lost faith in the banks. This allowed the launch of a new project called
 Bitcoin.
 
-Bitcoin and the Decentralized Ledger
+#### Bitcoin and the Decentralized Ledger
 
 Now, to fully understand the roots of Bitcoin, we must first take a look
 at a ledger. A ledger is simply a record of cash flowing in and out of
@@ -35,16 +38,15 @@ the world competing to modify the ledger. When one computer attempts to
 post a block of transactions to the ledger, the other computers verify
 the transaction. The block is then posted to the ledger if more than 50%
 of the computers agree that the transactions are correct. To see this in
-action, we can go to
-[[https://blockchain.info]{.underline}](https://blockchain.info) to view
+action, we can go to https://blockchain.info to view
 the latest transactions being verified by computers around the world.
 
-On [[https://blockchain.info]{.underline}](https://blockchain.info), we
+On https://blockchain.info, we
 can even click on a block to view many of its attributes, such as number
 of transactions, output total, and the transaction fees. An example of
 this is shown below.
 
-![](media/image3.png){width="5.023564085739283in"
+![Blockchain Block](media/blockExample.png){width="5.023564085739283in"
 height="2.5449048556430447in"}
 
 So, Bitcoin is a decentralized network allowing users to transact peer
@@ -59,7 +61,7 @@ slows banking transactions may soon be gone once all banks use one
 decentralized ledger instead of each maintaining their own and verifying
 the transactions with each other.
 
-Blockchain
+#### Blockchain
 
 This whole time, we have been looking into Bitcoin and its decentralized
 ledger that emerged in the wake of the 2009 financial crisis. Bitcoin
