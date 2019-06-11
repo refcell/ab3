@@ -47,6 +47,7 @@ of transactions, output total, and the transaction fees. An example of
 this is shown below.
 
 ![Blockchain Block](/images/blog/blockchain/blockExample.png){width=100%}
+<img src="/images/blog/blockchain/blockExample.png" alt="blockchain block" style="width:100%;"/>
 
 So, Bitcoin is a decentralized network allowing users to transact peer
 to peer without the middle man (such as a bank). Trust in the network is
