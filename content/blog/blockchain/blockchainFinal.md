@@ -1,6 +1,5 @@
 ---
 title: "Blockchain in 10 Minutes"
-date: 2019-06-2T12:14:34+06:00
 publishdate: 2019-06-11T1:38:34
 image: "images/blog/blockchain/blockchain.png"
 description: "Blog 2 - An exploration into Blockchain technology"
