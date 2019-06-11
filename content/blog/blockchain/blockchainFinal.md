@@ -46,8 +46,7 @@ can even click on a block to view many of its attributes, such as number
 of transactions, output total, and the transaction fees. An example of
 this is shown below.
 
-![Blockchain Block](/images/blog/blockchain/blockExample.png){width="5.023564085739283in"
-height="2.5449048556430447in"}
+![Blockchain Block](/images/blog/blockchain/blockExample.png){width=100%}
 
 So, Bitcoin is a decentralized network allowing users to transact peer
 to peer without the middle man (such as a bank). Trust in the network is
