@@ -1,6 +1,6 @@
 ---
 title: "Blockchain in 10 Minutes"
-publishdate: 2019-06-11
+publishdate: 2019-06-11T1:38:34-5
 image: "images/blog/blockchain/blockchain.png"
 description: "Blog 2 - An exploration into Blockchain technology"
 author: "Andreas Bigger"
