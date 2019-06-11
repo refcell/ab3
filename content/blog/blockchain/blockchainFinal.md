@@ -1,8 +1,8 @@
 ---
 title: "Blockchain in 10 Minutes"
 date: 2019-06-2T12:14:34+06:00
-PublishDate: 2019-06-11T1:38:34+06:00
-image: "./media/blockchain.png"
+publishdate: 2019-06-11T1:38:34
+image: "images/blog/blockchain/blockchain.png"
 description: "Blog 2 - An exploration into Blockchain technology"
 author: "Andreas Bigger"
 type: "post"
@@ -20,7 +20,7 @@ encyclopedia. As access to the internet grew and became more easily
 accessible, this innovation spread. As of June, 2019, the number of
 active English contributors (within the last 30 days) is 127,026.
 
-![Blockchain](./media/wikipedia.jpg)
+![Blockchain](images/blog/blockchain/wikipedia.jpg)
 
 In 2009, the financial crisis occurred in the United States and many
 lost faith in the banks. This allowed the launch of a new project called
@@ -45,7 +45,7 @@ can even click on a block to view many of its attributes, such as number
 of transactions, output total, and the transaction fees. An example of
 this is shown below.
 
-![Blockchain Block](./media/blockExample.png)
+![Blockchain Block](images/blog/blockchain/blockExample.png)
 
 So, Bitcoin is a decentralized network allowing users to transact peer
 to peer without the middle man (such as a bank). Trust in the network is
