@@ -1,6 +1,6 @@
 ---
 title: "Tesla, Strong Buy?"
-publishdate: 2019-06-02T12:14:34-05:00
+publishdate: 2019-06-02T12:14:34
 image: "images/blog/tesla/teslaBlog1.jpg"
 description: "First Blog - Is Tesla a buy?"
 author: "Andreas Bigger"
