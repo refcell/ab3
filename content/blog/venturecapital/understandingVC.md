@@ -1,6 +1,6 @@
 ---
 title: "What is Venture Capital?"
-publishdate: 2019-06-16T14:53
+publishdate: 2019-06-17T11:22:21
 image: "images/blog/venturecapital/vc.png"
 description: "A first look into understanding venture capital."
 author: "Andreas Bigger"
