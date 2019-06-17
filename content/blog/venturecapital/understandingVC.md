@@ -7,8 +7,6 @@ author: "Andreas Bigger"
 type: "post"
 ---
 
-*** Much of the information in this article can and should be attributed to the a16z youtube channel and their video https://youtu.be/VIOhMFw5DXY ***
-
 Venture Capital is a curiously invasive chunk of society - with overwhelmingly beneficial contributions. While startups and their innovative ideas can, and often do, seek out loans from banks for capital, loans do not provide the guidance, reassurance, credibility, and a whole slew of other benefits that venture capital tends to offer. But this did not happen overnight, appearing out of nowhere. Venture capital takes stake in a company, saddling the most risky backings that loans are often not given to. They serve a necessary support beam that spures much of the radical innovation in society - aside from well connected angel investors.
 
 This is largely different from hedge funds in that hedge funds typically look to invest across various asset classes with liquidity, mitigating risk by making money when investments rise and shrink in value. On the other hand, venture capital firms' success is thought to depend on the company's growth and profit, and the invested capital is known as permanent capital in that it is typically not returned from the companies to the venture capital firms.
@@ -55,3 +53,6 @@ With the growth of capital exchange platforms on the internet such as cryptocurr
 
 Well, in the beginning of their role in investing, they controlled the money, so it was necessary. Whether the funds realise it or not, they will have to evolve in order to find ways to better support the companies they invest in. This is what Scott Kupor voices a16z is working in order to achieve and provide meaningful value.
 
+Thank you for reading my blog post on Venture Capital! Please share if you find interesting and reach me on twitter @abigger87
+
+*** Much of the information in this article can and should be attributed to the a16z youtube channel and their video https://youtu.be/VIOhMFw5DXY ***
