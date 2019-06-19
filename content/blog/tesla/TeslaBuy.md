@@ -120,3 +120,7 @@ Realistically, there will be those who purchase cars instead of use ride-hailing
 #### Takeaway
 
 Although performance has been significantly hindered during the first quarter of 2019 due to operations, the strong position Tesla holds through its innovation in the automobile industry, and its ongoing projects, do not merit the value of Tesla to decline from $347 per share to $186. At a price of $186 per share, I recommend Tesla as a hold/buy.
+
+#### Thank you!
+
+Thank you for reading my blog on Tesla! I hope to have provided a strong analysis that is found to be useful and be sure to check me out on twitter @abigger87.
