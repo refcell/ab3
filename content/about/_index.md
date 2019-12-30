@@ -7,8 +7,8 @@ authorImage : "images/about/profile/profileVertical.png"
 authorSignature : "images/about/signatures/ABSmall.png"
 ---
 
-Hello! My name is Andreas Bigger and I am an undergraduate Viterbi Fellow at the University of Southern California majoring in computer science. I began my freshman year in August, 2018, and prior to this I studied at Cold Spring Harbor High School.
+Hello! I am Andreas Bigger, an undergraduate Viterbi Fellow at the University of Southern California majoring in computer science.
 
-I am an avid web developer, who entered USC with basic knowledge of HTML and CSS. Fortunately, I dove into web development research and quickly obtained certificates from Programming with Mosh in React and NodeJS.
+I am an avid web developer with machine learning/quantitative finance ambitions combined with an entrepreneurial flair. Through research at the USC Integrated Media Systems Center and Director of Engineering at HackSC, I am expanding my engineering and leadership experience.Complementing academics, I swim, play ice hockey, kiteboard, and ski. 
 
-On the side of computer science, I am a swimmer, ice hockey player, kiteboarder, and amature photographer. On my blog I write about photography to push myself to learn, as well as investing and various ad hoc computer science interests.
+This blog tracks my adventures as I navigate computer science, quantitative finance, and all the other crazy experiments denting our universe.
