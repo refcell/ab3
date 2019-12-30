@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andreasbigger.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andreasbigger.com/blog/teslablog1/</loc>
+    <loc>/blog/teslablog1/</loc>
   </url>
   
 </urlset>
