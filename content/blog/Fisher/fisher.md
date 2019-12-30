@@ -9,9 +9,11 @@ type: "post"
 
 Phillip Fisher is an extraordinary who disrupted the field of investing, pioneering growth investing. He specialized in innovative companies driven by strong future prospectives backed by research and development. In Common Stocks and Uncommon Profits, Fisher's book that drove him to legendary status, Phillip Fisher lays out a framework for growth investing.
 
-#### The Scuttlebut Method
+#### The Scuttlebutt Approach
 
-The scuttlebut method is a term coined to 
+The scuttlebut approach is a term coined to describe the investigation of a company's entire position. Using this approach, the investor consumes all information about a company to gain a holistic picture for due diligence and to conduct a sound business analysis. In order to piece together a near-complete picture of a company, the investor scuttlebutts by conversing with all kinds of people related to the company in order to learn about the different perspectives of customers, vendors, competitors, partners, employees, and management. The scuttlebutt boils down, in its purest form, to intense research, beyond the standard due diligence that many analysts and stock holders conduct.
+
+Fundamentally, Fisher proposes that this due diligence creates a margin of safety in an investment.
 
 #### Fisher's 15 Points
 
